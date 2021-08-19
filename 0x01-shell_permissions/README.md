@@ -9,3 +9,7 @@ This README.md file describes with a number of scripts would do under shell perm
 3-new_owner: changes the owner of a file to betty.
 
 4-empty: creates an empty file named hello
+
+5-execute: adds execute permission to the owner of a file, hello.
+
+6-multiple_permissions: add execute permission to the owner and the group owner, and read permission to the rest of the world. 
