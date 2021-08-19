@@ -16,3 +16,4 @@ This README.md file describes with a number of scripts would do under shell perm
 
 7-everybody: everybody gets all permissions
 
+9-JohnDoe: give selective permission
