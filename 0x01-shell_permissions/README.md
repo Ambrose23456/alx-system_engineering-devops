@@ -12,4 +12,7 @@ This README.md file describes with a number of scripts would do under shell perm
 
 5-execute: adds execute permission to the owner of a file, hello.
 
-6-multiple_permissions: add execute permission to the owner and the group owner, and read permission to the rest of the world. 
+6-multiple_permissions: add execute permission to the owner and the group owner, and read permission to the rest of the world.
+
+7-everybody: everybody gets all permissions
+
