@@ -20,5 +20,7 @@ x1-who_am_i: prints the effective username of the current user.
 
 10-mirror_permissions: copies the permission of one file to another
 
+12-directory_permissions: assings permission to directory at the point of creation
+
 13-change_group: changes group for hello file
 
