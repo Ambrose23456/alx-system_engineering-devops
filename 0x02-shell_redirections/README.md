@@ -18,4 +18,6 @@ BASIC COMMANDS WITH SHELL I/O REDIRECTIONS AND FILTERS - LINUX
 
 8-cwd_state: redirects the content of ls command from Standard Output into a file.
 
+10-no_more_js: deletes all files with .js extesion in current directory and its sub directories
+
 12-newest_file: displays the newest file in the current directory
