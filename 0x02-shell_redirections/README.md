@@ -20,4 +20,6 @@ BASIC COMMANDS WITH SHELL I/O REDIRECTIONS AND FILTERS - LINUX
 
 10-no_more_js: deletes all files with .js extesion in current directory and its sub directories
 
+11-find directories: counts the number of directories and sub- directories in current folder.
+
 12-newest_file: displays the newest file in the current directory
