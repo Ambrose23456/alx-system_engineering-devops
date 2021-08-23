@@ -11,3 +11,4 @@ BASIC COMMANDS WITH SHELL I/O REDIRECTIONS AND FILTERS - LINUX
 
 5-firstline: print the first 10 lines of a file.
 
+6-thirdline: prints the third line of a file without using sed
