@@ -7,4 +7,7 @@ BASIC COMMANDS WITH SHELL I/O REDIRECTIONS AND FILTERS - LINUX
 
 3-twofiles: prints the content of two files to the standard output.
 
-4-lastlines: prints the last 10 lines of a file. 
+4-lastlines: prints the last 10 lines of a file.
+
+5-firstline: print the first 10 lines of a file.
+
