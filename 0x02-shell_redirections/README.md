@@ -13,4 +13,6 @@ BASIC COMMANDS WITH SHELL I/O REDIRECTIONS AND FILTERS - LINUX
 
 6-thirdline: prints the third line of a file without using sed
 
+7-file: creates a new file.
+
 8-cwd_state: redirects the content of ls command from Standard Output into a file. 
