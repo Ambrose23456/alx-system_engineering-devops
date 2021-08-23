@@ -15,4 +15,6 @@ BASIC COMMANDS WITH SHELL I/O REDIRECTIONS AND FILTERS - LINUX
 
 7-file: creates a new file.
 
-8-cwd_state: redirects the content of ls command from Standard Output into a file. 
+8-cwd_state: redirects the content of ls command from Standard Output into a file.
+
+12-newest_file: displays the newest file in the current directory
