@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #displays a phrase, "Best School",  10 times
 
-for  NAME in {1..10}
+for ((i = 0; i < 10; i++));
 do
-	echo "Bash School"
+	echo "Best School"
 done
